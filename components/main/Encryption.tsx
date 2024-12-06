@@ -18,7 +18,7 @@ const Encryption = () => {
             {" "}
             &{" "}
           </span>
-          Security
+          Securitys
         </motion.div>
       </div>
 
